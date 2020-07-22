@@ -3,11 +3,11 @@
  
  // Your web app's Firebase configuration
  var firebaseConfig = {
-  apiKey: "AIzaSyAlrKULzEbcEKOSbRYzr6rVT4kRXUnwDCs",
-  authDomain: "geo-location-d5e96.firebaseapp.com",
-  databaseURL: "https://geo-location-d5e96.firebaseio.com",
-  projectId: "geo-location-d5e96",
-  storageBucket: "geo-location-d5e96.appspot.com",
+  apiKey: "",
+  authDomain: "",
+  databaseURL: "",
+  projectId: "",
+  storageBucket: "",
   messagingSenderId: "683085861583",
   appId: "1:683085861583:web:eead38f702359e2fbb5dba"
 };
